@@ -1,7 +1,7 @@
 # Doctor GPT
 <p align="center">
 
-<img src="https://i.imgur.com/18jVWiV.png" width="400" height="400">
+<img src="https://cdn.pixabay.com/photo/2023/08/13/02/08/02-08-41-805_1280.jpg" width="400" height="400">
 </p>
 
 ## Overview
